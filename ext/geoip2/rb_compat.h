@@ -1,6 +1,7 @@
 #ifndef __RB_COMPAT_H__
 #define __RB_COMPAT_H__
 
+#include <stdbool.h>
 #include <ruby.h>
 
 #ifndef HAVE_RB_SYM2STR
